@@ -1,0 +1,17 @@
+{
+  "name": "function-crud-google-cloud",
+  "version": "1.0.0",
+  "dependencies": {
+    "@google-cloud/datastore": "1.4.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffnogueira/function-crud-google-cloud.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeffnogueira/function-crud-google-cloud/issues"
+  },
+  "homepage": "https://github.com/jeffnogueira/function-crud-google-cloud#readme"
+}
